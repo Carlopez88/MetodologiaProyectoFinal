@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wCaminoMinimoIO", "wCaminoMinimoIO\wCaminoMinimoIO.csproj", "{DB9D29EF-7758-4F4F-9466-ADBAA549F4CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowCaminoMinimo", "SpecFlowCaminoMinimo\SpecFlowCaminoMinimo.csproj", "{4F8EBE71-DD0B-453F-BD17-CC0AEF39B843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9D29EF-7758-4F4F-9466-ADBAA549F4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9D29EF-7758-4F4F-9466-ADBAA549F4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9D29EF-7758-4F4F-9466-ADBAA549F4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9D29EF-7758-4F4F-9466-ADBAA549F4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F8EBE71-DD0B-453F-BD17-CC0AEF39B843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8EBE71-DD0B-453F-BD17-CC0AEF39B843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8EBE71-DD0B-453F-BD17-CC0AEF39B843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8EBE71-DD0B-453F-BD17-CC0AEF39B843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09F2285B-8DA4-4516-B318-E28A2BAA9F33}
+	EndGlobalSection
+EndGlobal
